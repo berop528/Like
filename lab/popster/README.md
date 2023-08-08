@@ -5,6 +5,6 @@
 <p>นี่คือรูปเมื่อยังไม่ได้กดให้ไอคอนดาวเป็นตัวหนา  Unlike</p>
 <img src="New folder/Screen.png"  >
 
-<p>นี่คือรูปแนวนอน</p>
+<p>นี่คือรูปเมื่อกดให้ไอคอนดาวเป็นตัวหนา Like</p>
 <img src="New folder/Screen_like.png"  >
 
